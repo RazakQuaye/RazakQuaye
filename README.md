@@ -1,13 +1,10 @@
-```md
-<div align="center">
-
-# Razak Quaye
+# 👋 Hi, I'm Razak Quaye
 
 ### Full-Stack Software Developer
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D6EFD&height=4&section=header"/>
+<div align="center">
 
-Building modern, scalable, and user-friendly web applications.
+Building modern, scalable, secure, and user-friendly web applications.
 
 </div>
 
@@ -15,18 +12,19 @@ Building modern, scalable, and user-friendly web applications.
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Software Developer** passionate about building secure, scalable, and high-performance web applications.
+I am a **Full-Stack Software Developer** passionate about building high-quality web applications and digital solutions.
 
-I enjoy developing complete solutions from frontend interfaces to backend systems, APIs, databases, and deployment workflows.
+I enjoy creating complete systems—from responsive user interfaces to backend services, APIs, databases, and deployment workflows.
 
 ### What I Focus On
 
-- Responsive Web Applications
-- Backend Development & APIs
-- Database Design
-- Cloud Deployment
-- Performance Optimization
-- Clean & Maintainable Code
+* Frontend Development
+* Backend Development
+* RESTful APIs
+* Database Design
+* Cloud Deployment
+* Performance Optimization
+* Clean & Maintainable Code
 
 ---
 
@@ -36,11 +34,11 @@ I enjoy developing complete solutions from frontend interfaces to backend system
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,django,flask" />
 
 ### Databases
 
@@ -52,25 +50,41 @@ I enjoy developing complete solutions from frontend interfaces to backend system
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🤖 Developer Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"/>
+<img src="https://img.shields.io/badge/ChatGPT-0D6EFD?style=for-the-badge&logo=openai&logoColor=white" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-0D6EFD?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-0D6EFD?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/VS_Code-0D6EFD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+
+</div>
+
+---
+
+## 📬 Contact Me
 
 <div align="center">
 
@@ -82,7 +96,7 @@ I enjoy developing complete solutions from frontend interfaces to backend system
 <img src="https://img.shields.io/badge/WhatsApp-0D6EFD?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/">
+<a href="#">
 <img src="https://img.shields.io/badge/Facebook-0D6EFD?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -92,13 +106,11 @@ I enjoy developing complete solutions from frontend interfaces to backend system
 
 <div align="center">
 
-### Contact Information
-
-📧 **Email:** qrazak26@gmail.com
-
-📱 **WhatsApp:** +233 59 405 5572
-
-📘 **Facebook:** Razak Quaye
+| Contact     | Information                                     |
+| ----------- | ----------------------------------------------- |
+| 📧 Email    | [qrazak26@gmail.com](mailto:qrazak26@gmail.com) |
+| 📱 WhatsApp | +233 59 405 5572                                |
+| 📘 Facebook | Razak Quaye                                     |
 
 </div>
 
@@ -106,7 +118,6 @@ I enjoy developing complete solutions from frontend interfaces to backend system
 
 <div align="center">
 
-### ⚡ Building modern, scalable, and reliable software solutions
+### 🌟 Building Modern, Scalable & Reliable Software Solutions
 
 </div>
-```
